@@ -1,6 +1,6 @@
-# cik_ciak
+# CikCiak
 
-O&#x27; pezzott e TikTok
+O&#x27; pezzott 'e TikTok
 
 ## Getting Started
 
