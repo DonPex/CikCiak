@@ -1,6 +1,5 @@
 # CikCiak
 
-O&#x27; pezzott 'e TikTok
 
 ## Getting Started
 
